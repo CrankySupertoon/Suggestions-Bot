@@ -1,5 +1,5 @@
 # Suggestions-Bot
-A discord bot that adds reactions automatically to messages sent in a specific channel.
+A discord bot programmed in python that adds reactions automatically to messages sent in a specific channel.
 
 This bot was specifically made to add upvote and downvote emoji reactions to messages sent to a suggestion channel.
 
