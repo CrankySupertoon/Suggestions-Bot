@@ -3,7 +3,7 @@ import config
 from discord.ext import commands
 from discord.utils import get
 
-client = commands.Bot(description = "Adds reactions automatically to suggestions", command_prefix = "")
+client = commands.Bot(description = "Adds reactions automatically to suggestions", command_prefix = "!")
 
 @client.event
 async def on_ready():
